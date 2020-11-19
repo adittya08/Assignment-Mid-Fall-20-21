@@ -1,0 +1,13 @@
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\bin\Debug\netcoreapp3.1\Assignment_Fall_20-21.exe
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\bin\Debug\netcoreapp3.1\Assignment_Fall_20-21.deps.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\bin\Debug\netcoreapp3.1\Assignment_Fall_20-21.runtimeconfig.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\bin\Debug\netcoreapp3.1\Assignment_Fall_20-21.runtimeconfig.dev.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\bin\Debug\netcoreapp3.1\Assignment_Fall_20-21.dll
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\bin\Debug\netcoreapp3.1\Assignment_Fall_20-21.pdb
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.csprojAssemblyReference.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.AssemblyInfoInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.AssemblyInfo.cs
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.csproj.CoreCompileInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.dll
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.pdb
+D:\AIUB\Study materials\Fall 20-21\OOP2\Assignment_Fall_20-21\Assignment_Fall_20-21\obj\Debug\netcoreapp3.1\Assignment_Fall_20-21.genruntimeconfig.cache
